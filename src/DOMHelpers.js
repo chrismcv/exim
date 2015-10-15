@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactRouter from 'react-router';
+import ReactRouter from 'react-router-old';
 
 function getRouter () {
   const Router = {};
